@@ -6,4 +6,4 @@ Fills your coding life with green.
 Colors Concept.  
 
 
-<img alt="frogger.vim" width="100px" src="https://github.com/yukpiz/frogger.vim/raw/master/frogger.jpg"/>
+<img alt="frogger.vim" width="300px" src="https://github.com/yukpiz/frogger.vim/raw/master/frogger.jpg"/>
