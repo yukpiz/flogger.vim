@@ -8,4 +8,4 @@ Fills your coding life with green.
 
 Colors Concept.  
 
-<img alt="frogger.vim" src="https://github.com/yukpiz/frogger.vim/frogger.jpg"/>
+<img alt="frogger.vim" src="https://github.com/yukpiz/frogger.vim/raw/master/frogger.jpg"/>
